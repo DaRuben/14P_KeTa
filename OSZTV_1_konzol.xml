@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>OSZTV_1_konzol</name>
+    </assembly>
+    <members>
+        <member name="M:OSZTV_1_konzol.Program.fajlbaIras(System.String,System.Int32,System.Int32)">
+            fajlbaIras() paraméterei: egy string (leghosszabb út) és kettő int (sorindex, oszlopindex) egy eljárás
+            létrehoz "atadas.txt" néven egy .txt fájlt
+            for ciklus végig megy a sorokon
+            üres string változó (egysor)
+            for ciklus végig megy a oszlopokon
+            a Terkep fogasléces tároló sor, oszlop indexeit stringként, szóközzel elválasztva, az egysor változóba menti
+            kitörli az utolsó indexű elemet (utolsó szóköz)
+            fájlba írja a sorokat
+            a leghosszabb útvonal kezdő sor, oszlop indexeit a fájlba írja
+            a leghosszabb útvonalat, J és L karaktereket a fájlba írja
+        </member>
+        <member name="M:OSZTV_1_konzol.Program.LHO(System.Int32,System.Int32,System.String)">
+            LHO() paraméterei: kettő int (sor, oszlop) és egy string (útvonal) egy függvény
+            üres 2 elemű string lista
+            ha az oszlopindex kisebb mint az oszlopok száma - 1 és egyikból kivonva a jobbra lévő indexeinek abszolút értéke kisebb vagy egyenlő a megadott eltérés mértékénél
+            akkor lehet jobbra menni
+            meghívja önmagát úgy, hogy a mellette lévő oszlop legyen megadva, és az útvonal jobbra("J") lépés lesz megadva, ezt lementi az irányok tömb 0. indexére
+            ha a sorindex kisebb mint a sorok száma - 1 és egyikból kivonva az alatta lévő indexeinek abszolút értéke kisebb vagy egyenlő a megadott eltérés mértékénél
+            akkor lehet lefelé menni
+            meghívja önmagát úgy, hogy az alatta lévő sor legyen megadva, és az útvonal le("L") lépés lesz megadva, ezt lementi az irányok tömb 1. indexére
+            ut_hossza változóba lementi az irányok legnagyobb x hosszát, mint a leghosszabb útvonal
+            ha út hossza 0
+            üres stringet ad vissza
+            irányok első x hosszát adja vissza
+        </member>
+        <member name="M:OSZTV_1_konzol.Program.Beolvas">
+            Beolvas() egy eljárás
+            konzolról olvassa be a bemásolt adatokat mivel az állomány első adata a sorok száma, ezt igy tároljuk:
+            a második adat az oszlopok száma
+            az 1. sor 3. adata a lehetséges eltérés mértéke
+            az input változó tartalmazza a többi sort
+            beolvassa a többi sort
+            az eleje vége feleslegeket eltávolitjuk
+            a fogasléces tároló tömböt feltöltjük. A sorokat amiket tömbként beletöltünk
+            a szóköz mentén felszeleteljük, majd y => int.Parse(y) hozzárendeléssel
+            tömbbé alakitjuk (ez egy LINQ utasítás)
+        </member>
+    </members>
+</doc>
