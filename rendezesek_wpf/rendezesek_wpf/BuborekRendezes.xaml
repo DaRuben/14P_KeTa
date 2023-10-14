@@ -1,0 +1,62 @@
+﻿<Window x:Class="rendezesek_wpf.BuborekRendezes"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:rendezesek_wpf"
+        mc:Ignorable="d"
+        Title="BuborekRendezes" Height="450" Width="800">
+    <Window.Resources>
+        <Style TargetType="{x:Type Button}">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Border Background="{TemplateBinding Background}" BorderBrush="Black" BorderThickness="1">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center">
+                            </ContentPresenter>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+            <Style.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter Property="Background" Value="DarkMagenta"></Setter>
+                    <Setter Property="Foreground" Value="Magenta"></Setter>
+                </Trigger>
+                <Trigger Property="IsPressed" Value="True">
+                    <Setter Property="Background" Value="MediumVioletRed"></Setter>
+                    <Setter Property="Foreground" Value="LightCoral"></Setter>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+    </Window.Resources>
+
+    <Grid>
+        <DockPanel>
+            <Menu DockPanel.Dock="Top">
+                <MenuItem Header="Rendezések" FontSize="18">
+                    <MenuItem Header="Egyszerű cserés" Name="egyszeru"  Click="egyszeru_Click">
+                    </MenuItem>
+                    <MenuItem Header="Buborék" Name="buborek" Click="buborek_Click">
+                    </MenuItem>
+                    <MenuItem Header="MinMax" Name="minMax" Click="minMax_Click">
+                    </MenuItem>
+                    <MenuItem Header="Shell" Name="shell" Click="shell_Click">
+                    </MenuItem>
+                </MenuItem>
+            </Menu>
+        </DockPanel>
+
+        <Label Name="l1" Margin="10,10,0,0" FontSize="22" FontFamily="Garamond" Height="35" VerticalAlignment="Top" HorizontalAlignment="Center">Random generált számok darabszáma:</Label>
+        <TextBox Name="t1" Margin="280,50,0,0" FontSize="22" FontFamily="Garamond" Width="100" Height="30" VerticalAlignment="Top" HorizontalAlignment="Left"></TextBox>
+        <Button Name="b1" Margin="400,50,0,0" FontSize="22" FontFamily="Garamond" Width="140" Height="30" VerticalAlignment="Top" HorizontalAlignment="Left" Click="b1_Click">Generálás</Button>
+
+        <Label Name="l2" Margin="10,110,0,0" FontSize="22" FontFamily="Garamond" Width="140" Height="30" VerticalAlignment="Top" HorizontalAlignment="Left">Rendezés előtt:</Label>
+        <ListBox Name="lb1" Margin="10,155,0,0" FontSize="18" FontFamily="Garamond" Width="150" Height="250" VerticalAlignment="Top" HorizontalAlignment="Left"></ListBox>
+        <Button Name="b2" Margin="0,200,0,0" FontSize="22" FontFamily="Garamond" Width="140" Height="30" VerticalAlignment="Top" HorizontalAlignment="Center" Click="b2_Click">Rendezés</Button>
+        <Label Name="l3" Margin="0,110,10,0" FontSize="22" FontFamily="Garamond" Width="140" Height="30"  VerticalAlignment="Top" HorizontalAlignment="Right">Rendezés után:</Label>
+        <ListBox Name="lb2" Margin="0,155,10,0" FontSize="18" FontFamily="Garamond" Width="150" Height="250" VerticalAlignment="Top" HorizontalAlignment="Right"></ListBox>
+        <Label Name="l4" Margin="0,160,0,0" FontSize="22" FontFamily="Garamond" Width="85" Height="40" VerticalAlignment="Top" HorizontalAlignment="Center">Buborék</Label>
+
+    </Grid>
+</Window>
