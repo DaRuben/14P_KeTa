@@ -1,0 +1,15 @@
+D:\boronkay\14p\keta\palindrom_hf\palindrom_hf\obj\Debug\palindrom_hf.csproj.AssemblyReference.cache
+D:\boronkay\14p\keta\palindrom_hf\palindrom_hf\obj\Debug\MainWindow.g.cs
+D:\boronkay\14p\keta\palindrom_hf\palindrom_hf\obj\Debug\App.g.cs
+D:\boronkay\14p\keta\palindrom_hf\palindrom_hf\obj\Debug\palindrom_hf_MarkupCompile.cache
+D:\boronkay\14p\keta\palindrom_hf\palindrom_hf\obj\Debug\palindrom_hf_MarkupCompile.lref
+D:\boronkay\14p\keta\palindrom_hf\palindrom_hf\bin\Debug\palindrom_hf.exe.config
+D:\boronkay\14p\keta\palindrom_hf\palindrom_hf\bin\Debug\palindrom_hf.exe
+D:\boronkay\14p\keta\palindrom_hf\palindrom_hf\bin\Debug\palindrom_hf.pdb
+D:\boronkay\14p\keta\palindrom_hf\palindrom_hf\obj\Debug\MainWindow.baml
+D:\boronkay\14p\keta\palindrom_hf\palindrom_hf\obj\Debug\palindrom_hf.g.resources
+D:\boronkay\14p\keta\palindrom_hf\palindrom_hf\obj\Debug\palindrom_hf.Properties.Resources.resources
+D:\boronkay\14p\keta\palindrom_hf\palindrom_hf\obj\Debug\palindrom_hf.csproj.GenerateResource.cache
+D:\boronkay\14p\keta\palindrom_hf\palindrom_hf\obj\Debug\palindrom_hf.csproj.CoreCompileInputs.cache
+D:\boronkay\14p\keta\palindrom_hf\palindrom_hf\obj\Debug\palindrom_hf.exe
+D:\boronkay\14p\keta\palindrom_hf\palindrom_hf\obj\Debug\palindrom_hf.pdb
