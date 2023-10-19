@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "templomok_WPF", "templomok_WPF\templomok_WPF.csproj", "{4FAA0353-8FE6-4659-84E3-F4727778A7B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FAA0353-8FE6-4659-84E3-F4727778A7B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FAA0353-8FE6-4659-84E3-F4727778A7B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FAA0353-8FE6-4659-84E3-F4727778A7B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FAA0353-8FE6-4659-84E3-F4727778A7B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED368323-DBCC-4B26-98DE-7F34478C3D66}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+F:\boronkay\14p\keta\templomok\templomok_WPF\templomok_WPF\bin\Debug\templomok_WPF.exe.config
+F:\boronkay\14p\keta\templomok\templomok_WPF\templomok_WPF\bin\Debug\templomok_WPF.exe
+F:\boronkay\14p\keta\templomok\templomok_WPF\templomok_WPF\bin\Debug\templomok_WPF.pdb
+F:\boronkay\14p\keta\templomok\templomok_WPF\templomok_WPF\obj\Debug\templomok_WPF.csproj.AssemblyReference.cache
+F:\boronkay\14p\keta\templomok\templomok_WPF\templomok_WPF\obj\Debug\MainWindow.g.cs
+F:\boronkay\14p\keta\templomok\templomok_WPF\templomok_WPF\obj\Debug\App.g.cs
+F:\boronkay\14p\keta\templomok\templomok_WPF\templomok_WPF\obj\Debug\templomok_WPF_MarkupCompile.cache
+F:\boronkay\14p\keta\templomok\templomok_WPF\templomok_WPF\obj\Debug\templomok_WPF_MarkupCompile.lref
+F:\boronkay\14p\keta\templomok\templomok_WPF\templomok_WPF\obj\Debug\MainWindow.baml
+F:\boronkay\14p\keta\templomok\templomok_WPF\templomok_WPF\obj\Debug\templomok_WPF.g.resources
+F:\boronkay\14p\keta\templomok\templomok_WPF\templomok_WPF\obj\Debug\templomok_WPF.Properties.Resources.resources
+F:\boronkay\14p\keta\templomok\templomok_WPF\templomok_WPF\obj\Debug\templomok_WPF.csproj.GenerateResource.cache
+F:\boronkay\14p\keta\templomok\templomok_WPF\templomok_WPF\obj\Debug\templomok_WPF.csproj.CoreCompileInputs.cache
+F:\boronkay\14p\keta\templomok\templomok_WPF\templomok_WPF\obj\Debug\templomok_WPF.exe
+F:\boronkay\14p\keta\templomok\templomok_WPF\templomok_WPF\obj\Debug\templomok_WPF.pdb
