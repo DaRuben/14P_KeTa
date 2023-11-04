@@ -1,0 +1,14 @@
+F:\boronkay\14p\keta\rgb\rgb\bin\Debug\rgb.exe.config
+F:\boronkay\14p\keta\rgb\rgb\bin\Debug\rgb.exe
+F:\boronkay\14p\keta\rgb\rgb\bin\Debug\rgb.pdb
+F:\boronkay\14p\keta\rgb\rgb\obj\Debug\rgb.csproj.AssemblyReference.cache
+F:\boronkay\14p\keta\rgb\rgb\obj\Debug\rgb.csproj.CoreCompileInputs.cache
+F:\boronkay\14p\keta\rgb\rgb\obj\Debug\rgb.exe
+F:\boronkay\14p\keta\rgb\rgb\obj\Debug\rgb.pdb
+E:\!boronkay\14P\keta\rgb\rgb\bin\Debug\rgb.exe.config
+E:\!boronkay\14P\keta\rgb\rgb\bin\Debug\rgb.exe
+E:\!boronkay\14P\keta\rgb\rgb\bin\Debug\rgb.pdb
+E:\!boronkay\14P\keta\rgb\rgb\obj\Debug\rgb.csproj.AssemblyReference.cache
+E:\!boronkay\14P\keta\rgb\rgb\obj\Debug\rgb.csproj.CoreCompileInputs.cache
+E:\!boronkay\14P\keta\rgb\rgb\obj\Debug\rgb.exe
+E:\!boronkay\14P\keta\rgb\rgb\obj\Debug\rgb.pdb
