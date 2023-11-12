@@ -1,0 +1,89 @@
+rend r_latin	csalad	cs_latin	faj	f_latin	megjegyzes
+sünalakúak	Erinaceomorpha	sünfélék	Erinaceidae	keleti sün	Erinaceus roumanicus
+cickányalakúak	Soricomorpha	cickányfélék	Soricidae	mezei cickány	Crocidura leucodon
+cickányalakúak	Soricomorpha	cickányfélék	Soricidae	keleti cickány	Crocidura suaveolens
+cickányalakúak	Soricomorpha	cickányfélék	Soricidae	havasi cickány	Sorex alpinus
+cickányalakúak	Soricomorpha	cickányfélék	Soricidae	erdei cickány	Sorex araneus
+cickányalakúak	Soricomorpha	cickányfélék	Soricidae	törpecickány	Sorex minutus
+cickányalakúak	Soricomorpha	cickányfélék	Soricidae	Miller-vízicickány	Neomys anomalus
+cickányalakúak	Soricomorpha	cickányfélék	Soricidae	közönséges vízicickány	Neomys fodiens
+cickányalakúak	Soricomorpha	Vakondfélék	Talpidae	közönséges vakond	Talpa europaea
+denevérek	Chiroptera	patkósdenevér-félék	Rhinolophidae	nagy patkósdenevér	Rhinolophus ferrumequinum
+denevérek	Chiroptera	patkósdenevér-félék	Rhinolophidae	kis patkósdenevér	Rhinolophus hipposideros
+denevérek	Chiroptera	patkósdenevér-félék	Rhinolophidae	kereknyergû patkósdenevér	Rhinolophus euryale
+denevérek	Chiroptera	simaorrúdenevér-félék	Vespertilionidae	északi késeidenevér	Eptesicus nilssonii
+denevérek	Chiroptera	simaorrúdenevér-félék	Vespertilionidae	közönséges késeidenevér	Eptesicus serotinus
+denevérek	Chiroptera	simaorrúdenevér-félék	Vespertilionidae	fehérszélû törpedenevér	Pipistrellus kuhlii
+denevérek	Chiroptera	simaorrúdenevér-félék	Vespertilionidae	durvavitorlájú törpedenevér	Pipistrellus nathusii
+denevérek	Chiroptera	simaorrúdenevér-félék	Vespertilionidae	közönséges törpedenevér	Pipistrellus pipistrellus
+denevérek	Chiroptera	simaorrúdenevér-félék	Vespertilionidae	szoprán törpedenevér	Pipistrellus pygmaeus
+denevérek	Chiroptera	simaorrúdenevér-félék	Vespertilionidae	óriás koraidenevér	Nyctalus lasiopterus
+denevérek	Chiroptera	simaorrúdenevér-félék	Vespertilionidae	szõröskarú koraidenevér	Nyctalus leisleri
+denevérek	Chiroptera	simaorrúdenevér-félék	Vespertilionidae	rõt koraidenevér	Nyctalus noctula
+denevérek	Chiroptera	simaorrúdenevér-félék	Vespertilionidae	nyugati piszedenevér	Barbastella barbastellus
+denevérek	Chiroptera	simaorrúdenevér-félék	Vespertilionidae	barna hosszúfülû-denevér	Plecotus auritus
+denevérek	Chiroptera	simaorrúdenevér-félék	Vespertilionidae	szürke hosszúfülû-denevér	Plecotus austriacus
+denevérek	Chiroptera	simaorrúdenevér-félék	Vespertilionidae	alpesi denevér	Hypsugo savii
+denevérek	Chiroptera	simaorrúdenevér-félék	Vespertilionidae	fehértorkú denevér	Vespertilio murinus
+denevérek	Chiroptera	simaorrúdenevér-félék	Vespertilionidae	nimfadenevér	Myotis alcathoe
+denevérek	Chiroptera	simaorrúdenevér-félék	Vespertilionidae	nagyfülû denevér	Myotis bechsteinii
+denevérek	Chiroptera	simaorrúdenevér-félék	Vespertilionidae	Brandt-denevér	Myotis brandtii
+denevérek	Chiroptera	simaorrúdenevér-félék	Vespertilionidae	tavi denevér	Myotis dasycneme
+denevérek	Chiroptera	simaorrúdenevér-félék	Vespertilionidae	vízi denevér	Myotis daubentonii
+denevérek	Chiroptera	simaorrúdenevér-félék	Vespertilionidae	csonkafülû denevér	Myotis emarginatus
+denevérek	Chiroptera	simaorrúdenevér-félék	Vespertilionidae	közönséges denevér	Myotis myotis
+denevérek	Chiroptera	simaorrúdenevér-félék	Vespertilionidae	bajuszos denevér	Myotis mystacinus
+denevérek	Chiroptera	simaorrúdenevér-félék	Vespertilionidae	horgasszõrû denevér	Myotis nattereri
+denevérek	Chiroptera	simaorrúdenevér-félék	Vespertilionidae	hegyesorrú denevér	Myotis blythii
+denevérek	Chiroptera	simaorrúdenevér-félék	Vespertilionidae	hosszúszárnyú denevér	Miniopterus schreibersii
+nyúlalakúak	Lagomorpha	nyúlfélék	Leporidae	mezei nyúl	Lepus europaeus
+nyúlalakúak	Lagomorpha	nyúlfélék	Leporidae	üregi nyúl	Oryctolagus cuniculus
+rágcsálók	Rodentia	mókusfélék	Sciuridae	európai mókus	Sciurus vulgaris
+rágcsálók	Rodentia	mókusfélék	Sciuridae	közönséges ürge	Spermophilus citellus
+rágcsálók	Rodentia	Pelefélék	Gliridae	erdei pele	Dryomys nitedula
+rágcsálók	Rodentia	Pelefélék	Gliridae	mogyorós pele	Muscardinus avellanarius
+rágcsálók	Rodentia	Pelefélék	Gliridae	nagy pele	Glis glis
+rágcsálók	Rodentia	hódfélék	Castoridae	eurázsiai hód	Castor fiber	korábban kipusztult, újratelepítették
+rágcsálók	Rodentia	ugróegérfélék	Dipodidae	csíkos szöcskeegér	Sicista subtilis	rendkívül ritka, fokozottan védett
+rágcsálók	Rodentia	földikutyafélék	Spalacidae	nyugati földikutya	Spalax leucodon 	rendkívül ritka, fokozottan védett
+rágcsálók	Rodentia	hörcsögfélék	Cricetidae	csalitjáró pocok	Microtus agrestis
+rágcsálók	Rodentia	hörcsögfélék	Cricetidae	mezei pocok	Microtus arvalis
+rágcsálók	Rodentia	hörcsögfélék	Cricetidae	északi pocok	Microtus oeconomus
+rágcsálók	Rodentia	hörcsögfélék	Cricetidae	közönséges földipocok	Microtus subterraneus
+rágcsálók	Rodentia	hörcsögfélék	Cricetidae	közönséges kószapocok	Arvicola amphibius
+rágcsálók	Rodentia	hörcsögfélék	Cricetidae	vöröshátú erdeipocok	Myodes glareolus
+rágcsálók	Rodentia	hörcsögfélék	Cricetidae	pézsmapocok	Ondatra zibethicus
+rágcsálók	Rodentia	hörcsögfélék	Cricetidae	mezei hörcsög	Cricetus cricetus
+rágcsálók	Rodentia	egérfélék	Muridae	pirókegér	Apodemus agrarius
+rágcsálók	Rodentia	egérfélék	Muridae	sárganyakú erdeiegér	Apodemus flavicollis
+rágcsálók	Rodentia	egérfélék	Muridae	erdei egér	Apodemus sylvaticus
+rágcsálók	Rodentia	egérfélék	Muridae	kislábú erdeiegér	Apodemus uralensis
+rágcsálók	Rodentia	egérfélék	Muridae	törpeegér	Micromys minutus
+rágcsálók	Rodentia	egérfélék	Muridae	házi egér	Mus musculus
+rágcsálók	Rodentia	egérfélék	Muridae	güzüegér	Mus spicilegus
+rágcsálók	Rodentia	egérfélék	Muridae	vándorpatkány	Rattus norvegicus
+rágcsálók	Rodentia	egérfélék	Muridae	házi patkány	Rattus rattus
+fõemlõsök	Primata	emberfélék	Hominidae	ember	Homo sapiens
+ragadozók	Carnivora	macskafélék	Felidae	vadmacska	Felis silvestris
+ragadozók	Carnivora	macskafélék	Felidae	eurázsiai hiúz	Lynx lynx	korábban kipusztult, de újabban ismét megtelepült
+ragadozók	Carnivora	kutyafélék	Canidae	vörös róka	Vulpes vulpes
+ragadozók	Carnivora	kutyafélék	Canidae	aranysakál	Canis aureus
+ragadozók	Carnivora	kutyafélék	Canidae	farkas	Canis lupus	korábban kipusztult, de újabban ismét megtelepült
+ragadozók	Carnivora	kutyafélék	Canidae	nyestkutya	Nyctereutes procyonoides	újabban jelent meg
+ragadozók	Carnivora	medvefélék	Ursidae	barnamedve	Ursus arctos	rendkívül ritka bevándorló
+ragadozók	Carnivora	menyétfélék	Mustelidae	hermelin	Mustela erminea
+ragadozók	Carnivora	menyétfélék	Mustelidae	molnárgörény	Mustela eversmanni
+ragadozók	Carnivora	menyétfélék	Mustelidae	menyét	Mustela nivalis
+ragadozók	Carnivora	menyétfélék	Mustelidae	közönséges görény	Mustela putorius
+ragadozók	Carnivora	menyétfélék	Mustelidae	nyest	Martes foina
+ragadozók	Carnivora	menyétfélék	Mustelidae	nyuszt	Martes martes
+ragadozók	Carnivora	menyétfélék	Mustelidae	borz	Meles meles
+ragadozók	Carnivora	menyétfélék	Mustelidae	európai vidra	Lutra lutra
+ragadozók	Carnivora	Mosómedvefélék	Procyonidae	mosómedve	Procyon lotor
+párosujjú patások	Artiodactyla	disznófélék	Suidae	vaddisznó	Sus scrofa
+párosujjú patások	Artiodactyla	Szarvasfélék	Cervidae	európai õz	Capreolus capreolus
+párosujjú patások	Artiodactyla	Szarvasfélék	Cervidae	jávorszarvas	Alces alces	rendkívül ritka bevándorló
+párosujjú patások	Artiodactyla	Szarvasfélék	Cervidae	gímszarvas	Cervus elaphus
+párosujjú patások	Artiodactyla	Szarvasfélék	Cervidae	európai dámvad	Dama dama
+párosujjú patások	Artiodactyla	tülkösszarvúak	Bovidae	zerge	Rupicapra rupicapra	rendkívül ritka bevándorló
+párosujjú patások	Artiodactyla	tülkösszarvúak	Bovidae	muflon	Ovis aries	betelepített faj

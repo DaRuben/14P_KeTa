@@ -1,0 +1,11 @@
+D:\boronkay\14p\keta\emlosok\emlosok_forms\emlosok_forms\bin\Debug\emlosok_forms.exe.config
+D:\boronkay\14p\keta\emlosok\emlosok_forms\emlosok_forms\bin\Debug\emlosok_forms.exe
+D:\boronkay\14p\keta\emlosok\emlosok_forms\emlosok_forms\bin\Debug\emlosok_forms.pdb
+D:\boronkay\14p\keta\emlosok\emlosok_forms\emlosok_forms\obj\Debug\emlosok_forms.csproj.AssemblyReference.cache
+D:\boronkay\14p\keta\emlosok\emlosok_forms\emlosok_forms\obj\Debug\emlosok_forms.Form1.resources
+D:\boronkay\14p\keta\emlosok\emlosok_forms\emlosok_forms\obj\Debug\emlosok_forms.Properties.Resources.resources
+D:\boronkay\14p\keta\emlosok\emlosok_forms\emlosok_forms\obj\Debug\emlosok_forms.csproj.GenerateResource.cache
+D:\boronkay\14p\keta\emlosok\emlosok_forms\emlosok_forms\obj\Debug\emlosok_forms.csproj.CoreCompileInputs.cache
+D:\boronkay\14p\keta\emlosok\emlosok_forms\emlosok_forms\obj\Debug\emlosok_forms.exe
+D:\boronkay\14p\keta\emlosok\emlosok_forms\emlosok_forms\obj\Debug\emlosok_forms.pdb
+D:\boronkay\14p\keta\emlosok\emlosok_forms\emlosok_forms\obj\Debug\emlosok_forms.kep_adatai.resources
