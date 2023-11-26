@@ -1,0 +1,7 @@
+F:\boronkay\14p\keta\munkavallalok\munkavallalok\bin\Debug\munkavallalok.exe.config
+F:\boronkay\14p\keta\munkavallalok\munkavallalok\bin\Debug\munkavallalok.exe
+F:\boronkay\14p\keta\munkavallalok\munkavallalok\bin\Debug\munkavallalok.pdb
+F:\boronkay\14p\keta\munkavallalok\munkavallalok\obj\Debug\munkavallalok.csproj.AssemblyReference.cache
+F:\boronkay\14p\keta\munkavallalok\munkavallalok\obj\Debug\munkavallalok.csproj.CoreCompileInputs.cache
+F:\boronkay\14p\keta\munkavallalok\munkavallalok\obj\Debug\munkavallalok.exe
+F:\boronkay\14p\keta\munkavallalok\munkavallalok\obj\Debug\munkavallalok.pdb
