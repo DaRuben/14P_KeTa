@@ -1,0 +1,7 @@
+F:\boronkay\14p\keta\auto_szimulacio\auto_szimulacio\bin\Debug\auto_szimulacio.exe.config
+F:\boronkay\14p\keta\auto_szimulacio\auto_szimulacio\bin\Debug\auto_szimulacio.exe
+F:\boronkay\14p\keta\auto_szimulacio\auto_szimulacio\bin\Debug\auto_szimulacio.pdb
+F:\boronkay\14p\keta\auto_szimulacio\auto_szimulacio\obj\Debug\auto_szimulacio.csproj.AssemblyReference.cache
+F:\boronkay\14p\keta\auto_szimulacio\auto_szimulacio\obj\Debug\auto_szimulacio.csproj.CoreCompileInputs.cache
+F:\boronkay\14p\keta\auto_szimulacio\auto_szimulacio\obj\Debug\auto_szimulacio.exe
+F:\boronkay\14p\keta\auto_szimulacio\auto_szimulacio\obj\Debug\auto_szimulacio.pdb
