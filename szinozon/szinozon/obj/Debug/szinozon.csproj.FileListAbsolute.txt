@@ -1,0 +1,10 @@
+F:\boronkay\14p\keta\szinozon\szinozon\bin\Debug\szinozon.exe.config
+F:\boronkay\14p\keta\szinozon\szinozon\bin\Debug\szinozon.exe
+F:\boronkay\14p\keta\szinozon\szinozon\bin\Debug\szinozon.pdb
+F:\boronkay\14p\keta\szinozon\szinozon\obj\Debug\szinozon.csproj.AssemblyReference.cache
+F:\boronkay\14p\keta\szinozon\szinozon\obj\Debug\szinozon.Form1.resources
+F:\boronkay\14p\keta\szinozon\szinozon\obj\Debug\szinozon.Properties.Resources.resources
+F:\boronkay\14p\keta\szinozon\szinozon\obj\Debug\szinozon.csproj.GenerateResource.cache
+F:\boronkay\14p\keta\szinozon\szinozon\obj\Debug\szinozon.csproj.CoreCompileInputs.cache
+F:\boronkay\14p\keta\szinozon\szinozon\obj\Debug\szinozon.exe
+F:\boronkay\14p\keta\szinozon\szinozon\obj\Debug\szinozon.pdb
