@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kaputelefon</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="alap">
+        <h2 class="kozepSzoveg"><b>Üsse be a kódot!</b></h2>
+        <div class="sor">
+            <div><img class="szam" id="0" onclick="szamLeker(this);" src="kepek/0.png"></div>
+            <div><img class="szam" id="1" onclick="szamLeker(this);" src="kepek/1.png"></div>
+            <div><img class="szam" id="2" onclick="szamLeker(this);" src="kepek/2.png"></div>
+        </div>
+        <div class="sor">
+            <div><img class="szam" id="3" onclick="szamLeker(this);" src="kepek/3.png"></div>
+            <div><img class="szam" id="4" onclick="szamLeker(this);" src="kepek/4.png"></div>
+            <div><img class="szam" id="5" onclick="szamLeker(this);" src="kepek/5.png"></div>
+        </div>
+        <div class="sor">
+            <div><img class="szam" id="6" onclick="szamLeker(this);" src="kepek/6.png"></div>
+            <div><img class="szam" id="7" onclick="szamLeker(this);" src="kepek/7.png"></div>
+            <div><img class="szam" id="8" onclick="szamLeker(this);" src="kepek/8.png"></div>
+        </div>
+        <div class="alsoSor">
+            <img class="szam" id="9" onclick="szamLeker(this);" src="kepek/9.png">
+        </div>
+        <div class="alsoSor">
+            <button class="kozep gomb" onclick="uj()">Új bevitel</button>
+        </div>
+    </div>
+
+    <script>
+        function uj() {
+            const t = [];
+            for (let i = 0; i < 10; i++) {
+                do {
+                    var szam = Math.floor(Math.random()*10);
+                } while (t.includes(szam)) t.push(szam);
+            
+            document.getElementById(i).src="kepek/"+t[i]+".png";
+            document.getElementById(i).id=t[i];
+            strKod = "";
+            szamol = 0;
+            }
+        }
+
+        var szamol = 0;
+        var strKod = "";
+        var kod = "1205";
+        function szamLeker(item) {
+            if(strKod.length == 4) {
+                    if (strKod == kod) {
+                        alert("Kód megfelelő: " + kod);
+                    }
+                    else {
+                        alert("Kód hibás");
+                    }
+                }
+            else {
+                if (szamol < 4) {
+                strKod = strKod + item.id;
+                console.log(strKod);
+                szamol++;
+                }
+                else {
+                    alert("Csak négyet választhat ki!");
+                }
+            }
+        }
+    
+
+
+    </script>
+</body>
+</html>

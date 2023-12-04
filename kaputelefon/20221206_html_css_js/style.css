@@ -1,0 +1,35 @@
+.alap{
+    width: 302px;
+    margin-top: 20px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #ebc379;
+    border-radius: 10px;
+    box-shadow: 0 0 8px 8px #c77427;
+}
+.szam{
+    width: 100px;
+}
+.sor{
+    margin-left: 1px;
+    display: inline-flex;
+}
+.kozep{
+    margin-right: auto;
+    margin-left: auto;
+}
+.alsoSor{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+.kozepSzoveg{
+    margin: 5px;
+    text-align: center;
+}
+.gomb{
+    margin-top: 2px;
+    background-color: #c77427;
+    border: 2px solid black;
+    border-radius: 8px;
+}
