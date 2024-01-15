@@ -1,0 +1,40 @@
+﻿<Window x:Class="palindrom_hf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:palindrom_hf"
+        mc:Ignorable="d"
+        Title="Palindrom számok" Height="450" Width="800">
+    <Window.Resources>
+        <Color x:Key="c1" A="180" R="0" G="100" B="255"></Color>
+        <Color x:Key="c2" A="180" R="255" G="255" B="255"></Color>
+        <Color x:Key="c3" A="180" R="100" G="255" B="50"></Color>
+
+        <Style TargetType="Grid" x:Key="hatter">
+            <Setter Property="Background">
+                <Setter.Value>
+                    <LinearGradientBrush>
+                        <GradientStop Color="{StaticResource ResourceKey=c1}" Offset="0.25"></GradientStop>
+                        <GradientStop Color="{StaticResource ResourceKey=c2}" Offset="0.5"></GradientStop>
+                        <GradientStop Color="{StaticResource ResourceKey=c3}" Offset="0.9"></GradientStop>
+                    </LinearGradientBrush>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <Style TargetType="Button" x:Key="B1">
+            <Style.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter Property="Background" Value="CornflowerBlue"></Setter>
+                    <Setter Property="Foreground" Value="White"></Setter>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+    </Window.Resources>
+    <Grid Style="{StaticResource ResourceKey=hatter}">
+        <Label Name="L1" Margin="10,5,0,0" FontSize="18" VerticalAlignment="Top" HorizontalAlignment="Left">Adja meg a kívánt darabszámot (max. 10000):</Label>
+        <TextBox Name="n_bevitel" Margin="80,50,0,0" FontSize="18" Width="90" Height="30" VerticalAlignment="Top" HorizontalAlignment="Left"></TextBox>
+        <Button Name="B1" Margin="190,50,0,0" FontSize="18" Width="70" Height="30" VerticalAlignment="Top" HorizontalAlignment="Left" Click="B1_Click" MouseEnter="B1_MouseEnter">Mutat</Button>
+        <ListBox Name="LB1" Margin="10,80,0,10" FontSize="22" Width="650" Height="300" HorizontalAlignment="Center" VerticalAlignment="Center"></ListBox>
+    </Grid>
+</Window>
