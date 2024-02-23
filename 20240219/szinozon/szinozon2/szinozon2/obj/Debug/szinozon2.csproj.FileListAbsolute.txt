@@ -1,0 +1,14 @@
+D:\osztv\szinozon\szinozon2\szinozon2\bin\Debug\szinozon2.exe.config
+D:\osztv\szinozon\szinozon2\szinozon2\bin\Debug\szinozon2.exe
+D:\osztv\szinozon\szinozon2\szinozon2\bin\Debug\szinozon2.pdb
+D:\osztv\szinozon\szinozon2\szinozon2\obj\Debug\szinozon2.csproj.AssemblyReference.cache
+D:\osztv\szinozon\szinozon2\szinozon2\obj\Debug\szinozon2.csproj.CoreCompileInputs.cache
+D:\osztv\szinozon\szinozon2\szinozon2\obj\Debug\szinozon2.exe
+D:\osztv\szinozon\szinozon2\szinozon2\obj\Debug\szinozon2.pdb
+D:\boronkay\14p\keta\20240219\szinozon\szinozon2\szinozon2\bin\Debug\szinozon2.exe.config
+D:\boronkay\14p\keta\20240219\szinozon\szinozon2\szinozon2\bin\Debug\szinozon2.exe
+D:\boronkay\14p\keta\20240219\szinozon\szinozon2\szinozon2\bin\Debug\szinozon2.pdb
+D:\boronkay\14p\keta\20240219\szinozon\szinozon2\szinozon2\obj\Debug\szinozon2.csproj.AssemblyReference.cache
+D:\boronkay\14p\keta\20240219\szinozon\szinozon2\szinozon2\obj\Debug\szinozon2.csproj.CoreCompileInputs.cache
+D:\boronkay\14p\keta\20240219\szinozon\szinozon2\szinozon2\obj\Debug\szinozon2.exe
+D:\boronkay\14p\keta\20240219\szinozon\szinozon2\szinozon2\obj\Debug\szinozon2.pdb
