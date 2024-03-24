@@ -1,0 +1,14 @@
+D:\osztv\linq_biv\linq_biv\bin\Debug\linq_biv.exe.config
+D:\osztv\linq_biv\linq_biv\bin\Debug\linq_biv.exe
+D:\osztv\linq_biv\linq_biv\bin\Debug\linq_biv.pdb
+D:\osztv\linq_biv\linq_biv\obj\Debug\linq_biv.csproj.AssemblyReference.cache
+D:\osztv\linq_biv\linq_biv\obj\Debug\linq_biv.csproj.CoreCompileInputs.cache
+D:\osztv\linq_biv\linq_biv\obj\Debug\linq_biv.exe
+D:\osztv\linq_biv\linq_biv\obj\Debug\linq_biv.pdb
+F:\boronkay\14p\keta\linq_biv\linq_biv\bin\Debug\linq_biv.exe.config
+F:\boronkay\14p\keta\linq_biv\linq_biv\bin\Debug\linq_biv.exe
+F:\boronkay\14p\keta\linq_biv\linq_biv\bin\Debug\linq_biv.pdb
+F:\boronkay\14p\keta\linq_biv\linq_biv\obj\Debug\linq_biv.csproj.AssemblyReference.cache
+F:\boronkay\14p\keta\linq_biv\linq_biv\obj\Debug\linq_biv.csproj.CoreCompileInputs.cache
+F:\boronkay\14p\keta\linq_biv\linq_biv\obj\Debug\linq_biv.exe
+F:\boronkay\14p\keta\linq_biv\linq_biv\obj\Debug\linq_biv.pdb

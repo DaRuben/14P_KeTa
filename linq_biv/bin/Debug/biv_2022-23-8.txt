@@ -1,0 +1,99 @@
+kód	név	elmélet_1	gyakorlat_1	elmélet_2	gyakorlat_2
+BIV22-23-8-1	Árva Andrea	4,24	0	9,75	0
+BIV22-23-8-2	Árva Panna	5,67	0	8,75	0
+BIV22-23-8-3	Aszodi Timea	4,81	0	10,25	0
+BIV22-23-8-4	Babó Zalán	14,53	19	12,25	17,5
+BIV22-23-8-5	bahorecz kevin 	7,96	0	0	0
+BIV22-23-8-6	Bánár Orsolya	16,67	15	0	0
+BIV22-23-8-7	Bencsik Bálint Marcell	18,84	24	0	0
+BIV22-23-8-8	Bencsis Zalán Zoltán	11,77	0	8,25	0
+BIV22-23-8-9	Bikkes Laura	10,74	0	11,75	0
+BIV22-23-8-10	Bozány Zorka	18,84	24	0	0
+BIV22-23-8-11	Csáki Tamás	16,67	18	16,5	22
+BIV22-23-8-12	Csonka Bálint	0	17	8	16,5
+BIV22-23-8-13	Darnay-Kopó Bálint	16	22	16,5	0
+BIV22-23-8-14	Demes Olivér	18,84	0	0	0
+BIV22-23-8-15	Dervalics Barnabás	19	21	0	0
+BIV22-23-8-16	Enyedi Kincső 	9,96	23	0	0
+BIV22-23-8-17	Fábián Ákos	18,84	0	0	0
+BIV22-23-8-18	Fábián Izabel Ágnes	10,62	23	0	0
+BIV22-23-8-19	Farkas Péter 	7,79	20	0	0
+BIV22-23-8-20	Fodor Noel	7,62	0	0	0
+BIV22-23-8-21	Gál Tamás	18,84	0	0	0
+BIV22-23-8-22	Garai Ferenc	5,91	0	9,5	0
+BIV22-23-8-23	Gergely Botond 	7,1	0	11,5	0
+BIV22-23-8-24	Gódor Zalán	11,2	20	13,75	0
+BIV22-23-8-25	Gulyás Botond	17,84	19	16,5	20
+BIV22-23-8-26	Gyetvai Levente	7,08	0	8,25	0
+BIV22-23-8-27	Hámori Zsombor	7,29	0	9,5	0
+BIV22-23-8-28	Hegedűs Márk Bence	15,29	22	14,25	24,5
+BIV22-23-8-29	Hoffer Ludovik	18,84	24	0	0
+BIV22-23-8-30	Hutyánszki Áron	16,53	13	15,25	24,5
+BIV22-23-8-31	Illés Ádám Lázár	9,43	20	8,25	0
+BIV22-23-8-32	Jurina Patrícia	13,93	19	13,25	22
+BIV22-23-8-33	Kajtor Péter	0	0	0	0
+BIV22-23-8-34	Kálmán Armand	4,79	0	11,5	0
+BIV22-23-8-35	Kálmán Benedek Lajos	8,29	0	6,25	0
+BIV22-23-8-36	Kardos Gvendolin Dorina	5,81	0	6,25	0
+BIV22-23-8-37	Kelemen András	15,39	21	9	24,5
+BIV22-23-8-38	Keszler Adrián	13,48	0	10,5	0
+BIV22-23-8-39	Kiss Emma	7,05	0	10,25	0
+BIV22-23-8-40	Kiss Ruben Valentin	18,84	24	0	0
+BIV22-23-8-41	Kiszelák Norina	6,79	0	0	0
+BIV22-23-8-42	Kolonics Márk	17,29	22	11,25	22,5
+BIV22-23-8-43	Kovács Barnabás	5,96	0	0	0
+BIV22-23-8-44	Kováts Antal	16,5	23	22,75	24,5
+BIV22-23-8-45	Makra Nándor Imre	10,05	0	0	0
+BIV22-23-8-46	Marsicki Máté	18,84	24	0	0
+BIV22-23-8-47	Mátyás leticia	3,62	0	0	0
+BIV22-23-8-48	Medgyesi Zoé	17,2	23	15,25	23
+BIV22-23-8-49	Nagy ferenc gergey	8,77	0	0	0
+BIV22-23-8-50	Ocskó Dávid	17	21	0	0
+BIV22-23-8-51	Oláh Dorián	5,5	0	10	0
+BIV22-23-8-52	oláh glória	6,08	0	9,25	0
+BIV22-23-8-53	Olah Kiara	8,08	0	10,25	0
+BIV22-23-8-54	Oláh Regina	4,91	0	11	0
+BIV22-23-8-55	Oroszlány Dávid	0	22	0	0
+BIV22-23-8-56	Pál Gyula	15,84	20	15,5	22
+BIV22-23-8-57	Pintér Soma Mátyás	10,62	0	0	0
+BIV22-23-8-58	Pusztai Balázs	8,91	0	0	0
+BIV22-23-8-59	Rácz Brendon	6,48	0	0	0
+BIV22-23-8-60	Rónási Ádám	5,65	0	0	0
+BIV22-23-8-61	Sajgál Botond 	14,67	0	0	0
+BIV22-23-8-62	Seres Botond	19,84	23	18,5	22
+BIV22-23-8-63	Sinkó Marcel	5,65	0	0	0
+BIV22-23-8-64	Szegeczky Domonkos	6,77	22	11,25	0
+BIV22-23-8-65	Székely Ádám Levente	9,77	22	10,25	0
+BIV22-23-8-66	Szóládi Nóra Mirtill	18,34	21	15	22,5
+BIV22-23-8-67	Temesvári Attila	17,67	23	20,25	23
+BIV22-23-8-68	Tóth István	11,67	14	0	0
+BIV22-23-8-69	Tóth Réka Csilla	10,91	0	0	0
+BIV22-23-8-70	virág klaudia	5,65	0	0	0
+BIV22-23-8-71	Viszus Nimród	18,55	24	17,75	22
+BIV22-23-8-72	Zsigmond Arnold Zsombor	8,29	23	10,25	0
+BIV22-23-8-73	Arany Árpád	23,14	15	11,75	10,5
+BIV22-23-8-74	Boros Dénes	0	11	12,5	6,5
+BIV22-23-8-75	Brunlich Benedek	17,27	16	15,5	10
+BIV22-23-8-76	Csalnok Marcell	7,07	11	10,25	6
+BIV22-23-8-77	Daru Dominik	17,7	12	7,5	6,5
+BIV22-23-8-78	Farkas Lilla	4,21	16	8,75	10,5
+BIV22-23-8-79	Fehér Krisztofer	0	12	11,25	12
+BIV22-23-8-80	Fodor Alex	12,94	13	7,75	10
+BIV22-23-8-81	Gaál Vilmos	16,74	13	13,75	6,5
+BIV22-23-8-82	Gimesi Tivadar	9,01	0	13	6,5
+BIV22-23-8-83	Horváth Ibolya Éva	0	11	11,5	8,5
+BIV22-23-8-84	Helédi Arnold	24,26	19	10,75	7,5
+BIV22-23-8-85	Horváth Kitti	21,96	18	17,25	24,5
+BIV22-23-8-86	Kertész Beatrix	6,67	15	7,75	0
+BIV22-23-8-87	Józsa Bernadett	20,57	16	16	0
+BIV22-23-8-88	Kígyóssy Petra	22,59	18	10,25	24
+BIV22-23-8-89	Kis Eszéki Gabriella	22,64	0	7,5	7,5
+BIV22-23-8-90	Kovács Anna Zoé	15,47	14	9,75	8,5
+BIV22-23-8-91	Kwag Choi Csaba	13,22	0	14,5	7,5
+BIV22-23-8-92	Major Krisztofer	20,93	12	15,5	7
+BIV22-23-8-93	Mihály József	9,6	18	10,5	11
+BIV22-23-8-94	Nagy Zs. Endre	9,29	11	9,75	6,5
+BIV22-23-8-95	Papp Anna	24,07	0	13	7
+BIV22-23-8-96	Nagy Domonkos Tivadar	8,92	12	11,25	11
+BIV22-23-8-97	Kiss Kovács Marianna	8,65	15	8,25	0
+BIV22-23-8-98	Szarvas Árpád	23,24	19	16,5	7
