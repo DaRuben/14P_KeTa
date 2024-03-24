@@ -1,0 +1,16 @@
+az	uzemel	hol
+1	-1	Duna
+2	-1	Rajna
+3	-1	Európa víziúthálózatán
+4	-1	Holland belvizek
+5	-1	Elba
+6	-1	Szajna
+7	-1	Rhone
+8	-1	Pó
+9	-1	
+10	-1	tengeren
+11	0	állóhajó
+12	0	selejtezve
+13	0	szétbontva
+14	-1	Garrone
+15	-1	Dnyeper
