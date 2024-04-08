@@ -1,0 +1,48 @@
+2.
+SELECT e.enev, fnev
+FROM futo AS f
+INNER JOIN egyesulet AS e ON f.eazon = e.eazon
+ORDER BY e.enev ASC, fnev ASC;
+
+3.
+SELECT f.fnev, f.eazon, er.ido
+FROM verseny AS v
+INNER JOIN eredmeny AS er ON er.vazon=v.vazon
+INNER JOIN futo AS f ON er.fazon=f.fazon
+WHERE v.vnev LIKE "%Olimpia%"
+ORDER BY er.ido ASC;
+
+4.
+SELECT f.fnev, f.eazon, er.ido
+FROM verseny AS v
+INNER JOIN eredmeny AS er ON er.vazon=v.vazon
+INNER JOIN futo AS f ON er.fazon=f.fazon
+WHERE v.vnev LIKE "%Olimpia%"
+ORDER BY er.ido ASC
+LIMIT 1;
+
+5.
+SELECT v.vnev, COUNT(er.fazon) AS "Indulók száma"
+FROM verseny AS v
+INNER JOIN eredmeny AS er ON er.vazon=v.vazon
+GROUP BY v.vazon;
+
+6.
+SELECT egy.enev, COUNT(egy.eazon) AS "Egyesületek száma"
+FROM egyesulet AS egy
+INNER JOIN futo AS f ON f.eazon=egy.eazon
+GROUP BY egy.eazon;
+
+7.
+SELECT f.fnev, f.eazon, er.ido
+FROM verseny AS v
+INNER JOIN eredmeny AS er ON er.vazon=v.vazon
+INNER JOIN futo AS f ON er.fazon=f.fazon
+WHERE v.vnev LIKE "%Olimpia%" AND er.ido = 
+	(SELECT er.ido
+	FROM verseny AS v
+	INNER JOIN eredmeny AS er ON er.vazon=v.vazon
+	INNER JOIN futo AS f ON er.fazon=f.fazon
+	WHERE v.vnev LIKE "%Olimpia%"  
+	ORDER BY er.ido ASC
+	LIMIT 1);
